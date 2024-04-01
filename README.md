@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MassRobotics-FnF-Challenge/hardware_template">
+  <a href="https://github.com/MassRobotics-FnF-Challenge/repo_template">
     <img src="images/logo.png" alt="Logo" width="200" height="120">
   </a>
 
@@ -29,14 +29,14 @@
 
   <p align="center">
     <br />
-    <a href="https://massrobotics-fnf-challenge.github.io/hardware_template/"><strong>Explore the docs »</strong></a>
+    <a href="https://massrobotics-fnf-challenge.github.io/repo_template/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://massrobotics-fnf-challenge.github.io/hardware_template/">View Demo</a>
+    <a href="https://massrobotics-fnf-challenge.github.io/repo_template/">View Demo</a>
     ·
-    <a href="https://github.com/MassRobotics-FnF-Challenge/hardware_template/issues">Report Bug</a>
+    <a href="https://github.com/MassRobotics-FnF-Challenge/repo_template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MassRobotics-FnF-Challenge/hardware_template/issues">Request Feature</a>
+    <a href="https://github.com/MassRobotics-FnF-Challenge/repo_template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -165,7 +165,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/MassRobotics-FnF-Challenge/hardware_template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/MassRobotics-FnF-Challenge/repo_template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,16 +227,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MassRobotics-FnF-Challenge/hardware_template.svg?style=for-the-badge
-[contributors-url]: https://github.com/MassRobotics-FnF-Challenge/hardware_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MassRobotics-FnF-Challenge/hardware_template.svg?style=for-the-badge
-[forks-url]: https://github.com/MassRobotics-FnF-Challenge/hardware_template/forks
-[stars-shield]: https://img.shields.io/github/stars/MassRobotics-FnF-Challenge/hardware_template.svg?style=for-the-badge
-[stars-url]: https://github.com/MassRobotics-FnF-Challenge/hardware_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MassRobotics-FnF-Challenge/hardware_template.svg?style=for-the-badge
-[issues-url]: https://github.com/MassRobotics-FnF-Challenge/hardware_template/issues
-[license-shield]: https://img.shields.io/github/license/MassRobotics-FnF-Challenge/hardware_template.svg?style=for-the-badge
-[license-url]: https://github.com/MassRobotics-FnF-Challenge/hardware_template/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
+[contributors-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
+[forks-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/forks
+[stars-shield]: https://img.shields.io/github/stars/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
+[stars-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
+[issues-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/issues
+[license-shield]: https://img.shields.io/github/license/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
+[license-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trushant-adeshara/
 [product-screenshot]: images/screenshot.jpeg
