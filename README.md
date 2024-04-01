@@ -225,11 +225,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-https://massrobotics-fnf-challenge.github.io/hardware_template/
-https://github.com/MassRobotics-FnF-Challenge/hardware_template
-https://github.com/MassRobotics-FnF-Challenge/hardware_template/graphs/contributors
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MassRobotics-FnF-Challenge/hardware_template.svg?style=for-the-badge
