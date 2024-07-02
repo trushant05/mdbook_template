@@ -32,11 +32,11 @@
     <a href="https://github.com/trushant05/mdbook_template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href=""https://github.com/trushant05/mdbook_template>View Demo</a>
+    <a href="https://github.com/trushant05/mdbook_template">View Demo</a>
     ·
-    <a href="ihttps://github.com/trushant05/mdbook_template/issues">Report Bug</a>
+    <a href="https://github.com/trushant05/mdbook_template/issues">Report Bug</a>
     ·
-    <a href="/https://github.com/trushant05/mdbook_templateissues">Request Feature</a>
+    <a href="/https://github.com/trushant05/mdbook_template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -79,8 +79,8 @@ This project is an exploration of my passions and skills in the field of C++ pro
 
 I created this project for a great cause: to inspire others and contribute to the community by sharing my knowledge and experiences. Here's why I embarked on this journey:
 * **Learning C++**: I've always wanted to deepen my understanding of C++ and build a solid foundation in this powerful programming language.
-* **Game Development**: Games made in Unity have always inspired me, and I aspired to create one of my own, turning my creative ideas into interactive experiences.
 * **Robotics**: I love building robots and find it incredibly fun to share my learning process and projects with others who share the same passion.
+* **Game Development**: Games made in Unity have always inspired me, and I aspired to create one of my own, turning my creative ideas into interactive experiences.
 
 This template might not cover all your requirements for an ideal project template, and that's okay. My role is to provide a starting point, and now it's your turn to customize and expand it to fit your specific needs. 
 
@@ -94,7 +94,7 @@ Use this `README.md` as the foundation for your project documentation and let yo
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+* [![C++][Cpp-badge]][Cpp-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -240,8 +240,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trushant-adeshara/
 [product-screenshot]: images/screenshot.jpeg
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+
+[Cpp-badge]: https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cpp
+[Cpp-url]: https://cplusplus.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
