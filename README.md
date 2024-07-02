@@ -163,7 +163,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/MassRobotics-FnF-Challenge/repo_template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/trushant05/mdbook_template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,3 +252,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Rust-badge]: https://img.shields.io/badge/Rust-black?style=flat&logo=rust
 [Rust-url]: https://www.rust-lang.org/
 
+## Reference
+This README.md file was inspired from work of [othneildrew](https://github.com/othneildrew/Best-README-Template).
