@@ -94,12 +94,12 @@ Use this `README.md` as the foundation for your project documentation and let yo
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![C][C-badge][C-url]
-* [![C++][Cpp-badge][Cpp-url]
-* [![Python][Python-badge][Python-url]
-* [![MATLAB][Matlab-badge][Matlab-url]
-* [![JavaScript][Js-badge][Js-url]
-* [![Rust][Rust-badge][Rust-url]
+* [![C][C-badge]][C-url]
+* [![C++][Cpp-badge]][Cpp-url]
+* [![Python][Python-badge]][Python-url]
+* [![MATLAB][Matlab-badge]][Matlab-url]
+* [![JavaScript][Js-badge]][Js-url]
+* [![Rust][Rust-badge]][Rust-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,6 +247,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [Python-url]: https://www.python.org/
 [Matlab-badge]: https://img.shields.io/badge/MATLAB-white?style=flat&logo=MATLAB
 [Matlab-url]: https://www.mathworks.com/products/matlab.html
+[Js-badge]: https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript
+[Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Rust-badge]: https://www.mathworks.com/products/matlab.html
 [Rust-url]: https://www.rust-lang.org/
 
