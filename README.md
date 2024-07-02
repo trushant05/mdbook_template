@@ -249,6 +249,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Matlab-url]: https://www.mathworks.com/products/matlab.html
 [Js-badge]: https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript
 [Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Rust-badge]: https://www.mathworks.com/products/matlab.html
+[Rust-badge]: https://img.shields.io/badge/Rust-black?style=flat&logo=rust
 [Rust-url]: https://www.rust-lang.org/
 
