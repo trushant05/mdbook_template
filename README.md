@@ -94,14 +94,12 @@ Use this `README.md` as the foundation for your project documentation and let yo
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![C++][Cpp-badge]][Cpp-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![C][C-badge][C-url]
+* [![C++][Cpp-badge][Cpp-url]
+* [![Python][Python-badge][Python-url]
+* [![MATLAB][Matlab-badge][Matlab-url]
+* [![JavaScript][Js-badge][Js-url]
+* [![Rust][Rust-badge][Rust-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,19 +239,14 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/trushant-adeshara/
 [product-screenshot]: images/screenshot.jpeg
 
+[C-badge]: https://img.shields.io/badge/C-white?style=flat
+[C-url]: https://www.learn-c.org/
 [Cpp-badge]: https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cpp
 [Cpp-url]: https://cplusplus.com/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Python-badge]: https://img.shields.io/badge/Python-white?style=flat&logo=python
+[Python-url]: https://www.python.org/
+[Matlab-badge]: https://img.shields.io/badge/MATLAB-white?style=flat&logo=MATLAB
+[Matlab-url]: https://www.mathworks.com/products/matlab.html
+[Rust-badge]: https://www.mathworks.com/products/matlab.html
+[Rust-url]: https://www.rust-lang.org/
+
