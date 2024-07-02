@@ -3,7 +3,7 @@
 
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
+*** The README I refered to make this was using  markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MassRobotics-FnF-Challenge/repo_template">
+  <a href=""https://github.com/trushant05/mdbook_template>
     <img src="images/logo.png" alt="Logo" width="200" height="120">
   </a>
 
@@ -29,14 +29,14 @@
 
   <p align="center">
     <br />
-    <a href="https://massrobotics-fnf-challenge.github.io/repo_template/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/trushant05/mdbook_template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://massrobotics-fnf-challenge.github.io/repo_template/">View Demo</a>
+    <a href=""https://github.com/trushant05/mdbook_template>View Demo</a>
     ·
-    <a href="https://github.com/MassRobotics-FnF-Challenge/repo_template/issues">Report Bug</a>
+    <a href="ihttps://github.com/trushant05/mdbook_template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MassRobotics-FnF-Challenge/repo_template/issues">Request Feature</a>
+    <a href="/https://github.com/trushant05/mdbook_templateissues">Request Feature</a>
   </p>
 </div>
 
@@ -75,19 +75,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project is an exploration of my passions and skills in the field of C++ programming, game development, and robotics. It serves as a comprehensive knowledge base that documents my journey and learnings in these areas. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+I created this project for a great cause: to inspire others and contribute to the community by sharing my knowledge and experiences. Here's why I embarked on this journey:
+* **Learning C++**: I've always wanted to deepen my understanding of C++ and build a solid foundation in this powerful programming language.
+* **Game Development**: Games made in Unity have always inspired me, and I aspired to create one of my own, turning my creative ideas into interactive experiences.
+* **Robotics**: I love building robots and find it incredibly fun to share my learning process and projects with others who share the same passion.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+This template might not cover all your requirements for an ideal project template, and that's okay. My role is to provide a starting point, and now it's your turn to customize and expand it to fit your specific needs. 
 
-Use the `BLANK_README.md` to get started.
+Use this `README.md` as the foundation for your project documentation and let your creativity and expertise take it from here.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -227,16 +227,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
-[contributors-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
-[forks-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/forks
-[stars-shield]: https://img.shields.io/github/stars/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
-[stars-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
-[issues-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/issues
-[license-shield]: https://img.shields.io/github/license/MassRobotics-FnF-Challenge/repo_template.svg?style=for-the-badge
-[license-url]: https://github.com/MassRobotics-FnF-Challenge/repo_template/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/trushant05/mdbook_template.svg?style=for-the-badge
+[contributors-url]: https://github.com/trushant05/mdbook_template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/trushant05/mdbook_template.svg?style=for-the-badge
+[forks-url]: https://github.com/trushant05/mdbook_template/forks
+[stars-shield]: https://img.shields.io/github/stars/trushant05/mdbook_template.svg?style=for-the-badge
+[stars-url]: https://github.com/trushant05/mdbook_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/trushant05/mdbook_template.svg?style=for-the-badge
+[issues-url]: https://github.com/trushant05/mdbook_template/issues
+[license-shield]: https://img.shields.io/github/license/trushant05/mdbook_template.svg?style=for-the-badge
+[license-url]: https://github.com/trushant05/mdbook_template/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trushant-adeshara/
 [product-screenshot]: images/screenshot.jpeg
